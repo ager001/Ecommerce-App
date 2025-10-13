@@ -4,6 +4,7 @@ most importantly, the state of your user's shopping cart. */
 
 import { createContext } from 'react'
 import {products} from "../assets/assets"
+
 export const ShopContext = createContext();
 
 /*
@@ -17,7 +18,7 @@ export const ShopContext = createContext(): Creates the actual Context object. C
 */
 
 const ShopContextProvider =(props) =>{
-      const currency = '$';
+      const currency = 'kes';
       const delivery_fee = 10;
 
     
