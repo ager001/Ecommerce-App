@@ -99,13 +99,13 @@ export const assets = {
 export const products = [
     {
         _id: "aaaaa",
-        name: "Women Round Neck Cotton Top",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-        price: 100,
+        name: "fragment x Travis Scott x Air Jordan 1 Low OG 2025",
+        description: " white-based leather upper, with sail-tinted midsoles and a sea of Military Blue trimming, including the famous reverse Swoosh..",
+        price: 4500,
         image: [p_img1],
-        category: "Women",
+        category: "men",
         subCategory: "Topwear",
-        sizes: ["S", "M", "L"],
+        sizes: ["36", "37", "38", "39","40","41", "42", "43", "44","45"],
         date: 1716634345448,
         bestseller: true
     },
