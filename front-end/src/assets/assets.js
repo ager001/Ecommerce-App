@@ -596,7 +596,7 @@ export const products = [
         price: 300,
         image: [p_img42],
         category: "Kids",
-        subCategory: "Topwear",
+        subCategory: "Adidas",
         sizes: ["S", "M", "L", "XL"],
         date: 1716657445448,
         bestseller: false
@@ -608,7 +608,7 @@ export const products = [
         price: 280,
         image: [p_img43],
         category: "Kids",
-        subCategory: "Bottomwear",
+        subCategory: "Nike",
         sizes: ["S", "M", "L", "XL"],
         date: 1716658545448,
         bestseller: false
@@ -620,7 +620,7 @@ export const products = [
         price: 310,
         image: [p_img44],
         category: "Women",
-        subCategory: "Winterwear",
+        subCategory: "Vans",
         sizes: ["S", "M", "L", "XL"],
         date: 1716659645448,
         bestseller: false
@@ -632,7 +632,7 @@ export const products = [
         price: 290,
         image: [p_img45],
         category: "Men",
-        subCategory: "Winterwear",
+        subCategory: "Asics",
         sizes: ["S", "M", "L", "XL"],
         date: 1716660745448,
         bestseller: false
